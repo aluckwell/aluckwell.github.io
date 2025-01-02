@@ -73,7 +73,8 @@ author:
       url: "https://github.com/aluckwell"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/andrew-luckwell-bb34bb2bb"
+      url: "https://www.linkedin.com/in/andrew-luckwell-bb34bb2bb"
+
 
 footer:
   links:
@@ -85,7 +86,7 @@ footer:
       url: "https://github.com/aluckwell"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/andrew-luckwell-bb34bb2bb"
+      url: "https://www.linkedin.com/in/andrew-luckwell-bb34bb2bb"
 
 defaults:
   # _posts
