@@ -1,7 +1,7 @@
 ---
 title: "Control Your Azure Costs With Budgets"
 categories:
-  - blog
+  - Blog
 tags:
   - Azure
   - Cost Management

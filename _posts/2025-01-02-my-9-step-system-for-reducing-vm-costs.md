@@ -1,7 +1,7 @@
 ---
 title: "My 9-step System For Reducing Virtual Machine Costs"
 categories:
-  - blog
+  - Blog
 tags:
   - Azure
   - Cost Management
