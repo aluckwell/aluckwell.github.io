@@ -15,12 +15,11 @@ In todays world of consumption based cloud services, the responsibility of IT co
 When financial requirements aren't clearly set impulse spending occurs. A bit more resiliency, availability and compute is all too tempting without spending limits. Why settle for ford when I can have a Ferrari?
 
 
+ - Resources get over-sized.
 
-Resources get over-sized.
+ - Resources get over-provisioned.
 
-Resources get over-provisioned.
-
-New services are briefly tested, forgotten, then orphaned indefinitely.
+ - New services are briefly tested, forgotten, then orphaned indefinitely.
 
 
 
