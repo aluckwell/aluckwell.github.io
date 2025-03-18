@@ -1,5 +1,5 @@
 ---
-title: "How to Avoid Rogue Azure Trial Subscriptions in our Organization Tenant"
+title: "How to Avoid Rogue Azure Trial Subscriptions in your Organization Tenant"
 categories:
   - Blog
 tags:
